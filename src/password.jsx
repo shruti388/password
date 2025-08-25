@@ -96,7 +96,7 @@ const PasswordGeneratorMain = () => {
     <div className="min-h-screen flex items-center justify-center p-4 bg-gradient-to-br from-gray-900 to-gray-800">
       <div className="w-full max-w-md bg-gray-800 bg-opacity-80 backdrop-blur-sm rounded-xl shadow-2xl p-8 border border-gray-700">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-white mb-2">Secure Password Generator1234</h1>
+          <h1 className="text-3xl font-bold text-white mb-2">Secure Password Generator</h1>
           <p className="text-gray-400">Create strong, random passwords instantly</p>
         </div>
 
